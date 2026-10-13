@@ -1,10 +1,10 @@
-<a href="https://bubalakidsapp.com"><img src="assets/hero.webp" alt="Bubala Kids presentation: two mobile screens from the parent app showing digital program progress and a weekly overview" width="100%"></a>
+<a href="https://bubalakidsapp.com"><img src="assets/cover.webp" alt="Bubala Kids: three real mobile app screens with sample data — parent home, digital education program and teacher home" width="100%"></a>
 
 # Bubala Kids
 
 A child development platform where parents, teachers and coordinators follow each child's assessments, goals, sessions and progress reports.
 
-**Live:** [bubalakidsapp.com](https://bubalakidsapp.com) &nbsp;·&nbsp; **More work:** [github.com/mertomeroglu](https://github.com/mertomeroglu)
+**[Visit bubalakidsapp.com ↗︎](https://bubalakidsapp.com)** &nbsp;·&nbsp; [More work by Mert Ömeroğlu](https://github.com/mertomeroglu)
 
 ### Highlights
 
@@ -18,8 +18,10 @@ A child development platform where parents, teachers and coordinators follow eac
 
 React · Vite · TypeScript · Fastify · PostgreSQL · Capacitor · Docker · Vitest
 
-<p align="center"><a href="https://bubalakidsapp.com"><img src="assets/poster.webp" alt="Bubala Kids portrait presentation with mobile app screens" width="420"></a></p>
+### Screens
+
+<a href="https://bubalakidsapp.com"><img src="assets/desktop.webp" alt="Bubala Kids web portal sign-in page on bubalakidsapp.com" width="100%"></a>
 
 ---
 
-<sub>Presentation-only repository: this README and two presentation images built from real product screens. Application source and private configuration are not published here. Visual content and brand assets remain the property of their respective owners — see [LICENSE](LICENSE).</sub>
+<sub>Presentation-only repository. Images are real, unmodified product screens in a simple frame; application source and private configuration are not published here. Brands and visual content belong to their respective owners — see [LICENSE](LICENSE).</sub>
